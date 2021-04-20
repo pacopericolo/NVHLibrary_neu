@@ -1,0 +1,2 @@
+xcopy /y C:\Users\u12o24\Documents\Concerto_NVH\WorkEnvironments\"Concerto_NVH - Ribbon"\Assembly\NVHLibrary.dll C:\"AVL IndiCom"\V2.10\"Build 104"\Bin\Assembly
+xcopy /y C:\Users\u12o24\Documents\Concerto_NVH\WorkEnvironments\"Concerto_NVH - Ribbon"\Assembly\NVHFunctions.dll C:\"AVL IndiCom"\V2.10\"Build 104"\Bin
